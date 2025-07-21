@@ -49,6 +49,7 @@ Focused on clean design, simplicity, and performance. *(React + Tailwind CSS + M
 ---
 
 ## 🤝 Let’s Connect
+![Пример анимации Tailwind](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
 
 
 
