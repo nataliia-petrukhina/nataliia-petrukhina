@@ -25,9 +25,9 @@ Accessibility, Human-Centered Design, Clean Code Principles
 
 _Work in progress – but growing every day!_
 
-- ✨ Personal Portfolio (React + SCSS)  
-- 🐾 Pet Adoption App (Node + MongoDB + Express)  
-- 📚 Small utility tools & learning repos from courses
+- ✨ Personal Portfolio (React + Tailwind)  
+- 🧒 Sprachmagie - Eine interaktive Lernplattform für Kinder zum spielerischen Erlernen von Fremdsprachen. Die Plattform wurde vollständig ins Deutsche übersetzt. (React + tailwind)  
+- 🌍 Reisewelt - Eine benutzerfreundliche Plattform zur Suche nach den besten Hotels in Europa. Einfach, übersichtlich und auf das Wesentliche konzentriert. (React + Tailwind + MongoDb + Express
 
 ---
 
@@ -35,8 +35,8 @@ _Work in progress – but growing every day!_
 
 - 🎓 Studying Full-Stack Development @ [DCI – Digital Career Institute](https://digitalcareerinstitute.org)  
 - 🌍 Based in Berlin, Germany  
-💬 Languages: Russian 🇷🇺, Ukrainian 🇺🇦, German 🇩🇪, English 🇬🇧
-🧘‍♀️ In meiner Freizeit beschäftige ich mich mit der Philosophie des Yoga – insbesondere mit den 16 Prinzipien von Yama und Niyama – und praktiziere Meditation für innere Klarheit und Fokus.
+- 💬 Languages: Russian 🇷🇺, Ukrainian 🇺🇦, German 🇩🇪, English 🇬🇧
+- 🧘‍♀️ In meiner Freizeit beschäftige ich mich mit der Philosophie des Yoga – insbesondere mit den 16 Prinzipien von Yama und Niyama – und praktiziere Meditation für innere Klarheit und Fokus.
 
 
 - 💡 Motto: *"Jeden Tag ein bisschen besser. *____* "*
@@ -47,9 +47,8 @@ _Work in progress – but growing every day!_
 
 | 🌐 Website | 💼 LinkedIn | 🐙 GitHub | ✉️ Email |
 |-----------|-------------|-----------|-----------|
-| demnächst | [LinkedIn](www.linkedin.com/in/nataliia-petrukhina-682164244) | [GitHub](https://github.com/nataliia-petrukhina) | natali.insajt@gmail.com|
+| demnächst | [LinkedIn](https://www.linkedin.com/in/nataliia-petrukhina-682164244/) | [GitHub](https://github.com/nataliia-petrukhina) | natali.insajt@gmail.com|
 
 ---
 
-> _"Code with heart. Learn with joy. Grow with purpose."_ 💛
 
