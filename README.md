@@ -1,4 +1,4 @@
-# Hi, I’m Nataliia 🌞  
+# Hi, I’m Natali 🌞  
 
 I'm a **Full-Stack Web Developer** passionate about building intuitive, accessible, and beautiful digital experiences.  
 Currently focused on **JavaScript**, with a love for both frontend & backend development.
