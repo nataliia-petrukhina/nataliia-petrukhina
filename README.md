@@ -2,8 +2,7 @@
 
 I'm a **Full-Stack Web Developer** passionate about building intuitive, accessible, and beautiful digital experiences.  
 Currently focused on **JavaScript**, with a love for both frontend & backend development.
-## 🧰 Technologies & Tools
-
+## Technologies & Tools
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
@@ -66,7 +65,8 @@ Focused on clean design, simplicity, and performance. *(React + Tailwind CSS + M
 ---
 
 ## 🤝 Let’s Connect
-[!(https://gifs.obs.ru-moscow-1.hc.sbercloud.ru/5b57a13bdebdf22f13fdb5b64d657a304b2dc95b89bfdd4d3714bb3d951b3266.gif)
+![duck](https://gifs.obs.ru-moscow-1.hc.sbercloud.ru/5b57a13bdebdf22f13fdb5b64d657a304b2dc95b89bfdd4d3714bb3d951b3266.gif)
+
 
 
 
