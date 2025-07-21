@@ -19,7 +19,7 @@ Currently focused on **JavaScript**, with a love for both frontend & backend dev
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" alt="Postman" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" height="40" alt="Vercel" />
 </p>
----
+
 
 ## 🛠️ Tech Stack
 
