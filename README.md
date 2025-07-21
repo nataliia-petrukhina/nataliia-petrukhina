@@ -1,34 +1,55 @@
-Hi there 👋 Schön, dass du da bist!
-Ich bin Nataliia, Full-Stack Entwicklerin mit Herz, Code und viel Kaffee ☕💻
-Mein Weg: von der Neugier zur Leidenschaft – jeden Tag ein bisschen besser werden.
+# Hi, I’m Nataliia 🌞  
 
-🧠 Was ich kann und liebe:
-JavaScript ist meine zweite Sprache
+I'm a **Full-Stack Web Developer** passionate about building intuitive, accessible and beautiful digital experiences.  
+Currently focused on **JavaScript**, with love for both frontend & backend work.
 
-React für dynamische und schöne UIs
+---
 
-Express.js & MongoDB im Backend
+## 🛠️ Tech Stack
 
-HTML / CSS / SCSS – ich bringe Struktur in Style
+**Languages & Frameworks:**  
+JavaScript (ES6+), TypeScript, React, Node.js, Express.js  
 
-🚀 Was gerade bei mir passiert:
-Ich entwickle spannende Projekte auf GitHub
+**Styling & Design:**  
+HTML5, CSS3, SCSS, Responsive Design, Tailwind CSS
 
-Ich lerne täglich dazu – aktuell besonders TypeScript & Node.js
+**Database & Tools:**  
+MongoDB, Git, GitHub, npm  
 
-Ich bilde mich weiter mit: DCI, FreeCodeCamp, MDN, YouTube & echten Projekten
+**Currently exploring:**  
+Accessibility, Human-Centered Design, Clean Code Principles
 
-Ich experimentiere mit UI/UX, Accessibility und Responsive Design
+---
 
-💬 Fun Facts:
-Mein Code ist manchmal stur, aber ich bin sturer 😎
+## 🚀 Projects
 
-Gib mir keine Pflanze – gib mir ein Coding-Problem, я справлюсь
+_Work in progress – but growing every day!_
 
-Ich liebe klare Strukturen – im Code wie im Leben
+- ✨ Personal Portfolio (React + SCSS)  
+- 🐾 Pet Adoption App (Node + MongoDB + Express)  
+- 📚 Small utility tools & learning repos from courses
 
-Ich bin Team: "Lass uns das Problem wirklich verstehen" 💡
+---
 
-📫 Let’s connect – Ich freue mich über neue Kontakte, Projekte und Inspiration!
-🌻 "Jeder Tag ist eine neue Möglichkeit, etwas Cooles zu bauen."
+## 🌱 About Me
+
+- 🎓 Studying Full-Stack Development @ [DCI – Digital Career Institute](https://digitalcareerinstitute.org)  
+- 🌍 Based in Berlin, Germany  
+💬 Languages: Russian 🇷🇺, Ukrainian 🇺🇦, German 🇩🇪, English 🇬🇧
+🧘‍♀️ In meiner Freizeit beschäftige ich mich mit der Philosophie des Yoga – insbesondere mit den 16 Prinzipien von Yama und Niyama – und praktiziere Meditation für innere Klarheit und Fokus.
+
+
+- 💡 Motto: *"Jeden Tag ein bisschen besser. *____* "*
+
+---
+
+## 🤝 Let’s Connect
+
+| 🌐 Website | 💼 LinkedIn | 🐙 GitHub | ✉️ Email |
+|-----------|-------------|-----------|-----------|
+| demnächst | [LinkedIn](www.linkedin.com/in/nataliia-petrukhina-682164244) | [GitHub](https://github.com/nataliia-petrukhina) | natali.insajt@gmail.com|
+
+---
+
+> _"Code with heart. Learn with joy. Grow with purpose."_ 💛
 
