@@ -24,7 +24,7 @@ Currently focused on **JavaScript**, with a love for both frontend & backend dev
 ## 🛠️ Tech Stack
 
 **Languages & Frameworks:**  
-JavaScript (ES6+), TypeScript, React, Node.js, Express.js  
+JavaScript (ES6+), TypeScript, React, Node.js, Express.js, Next.js
 
 **Styling & Design:**  
 HTML5, CSS3, SCSS, Responsive Design, Tailwind CSS  
@@ -54,13 +54,20 @@ Focused on clean design, simplicity, and performance. *(React + Tailwind CSS + M
 
 ---
 
-## 🌱 About Me
+🌱 About Me
 
-- 🎓 Studying Full-Stack Development @ [DCI – Digital Career Institute](https://digitalcareerinstitute.org)  
-- 🌍 Based in Berlin, Germany  
-- 💬 Languages: Russian 🇷🇺, Ukrainian 🇺🇦, German 🇩🇪, English 🇬🇧  
-- 🧘‍♀️ In my free time, I explore the philosophy of yoga — especially the 16 principles of *Yama* and *Niyama* 
-- 💡 Motto: *"Every day a little better."*
+
+📜 Received a certificate from the Berlin Digital Career Institute as a JavaScript Full-Stack Developer
+
+🌍 Based in Berlin, Germany
+
+💼 Currently lucky enough to be doing an internship at the amazing company PDM Solutions, focusing on AI development
+
+💬 Languages: Russian 🇷🇺, Ukrainian 🇺🇦, German 🇩🇪, English 🇬🇧
+
+🧘‍♀️ In my free time, I explore the philosophy of yoga — especially the 16 principles of Yama and Niyama
+
+💡 Motto: "Every day a little better."
 
 ---
 
