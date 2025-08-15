@@ -56,19 +56,17 @@ Focused on clean design, simplicity, and performance. *(React + Tailwind CSS + M
 
 🌱 About Me
 
+💼 Grateful and excited to be doing my internship in the AI development department at PDM Solutions
 
-📜 Received a certificate from the Berlin Digital Career Institute as a JavaScript Full-Stack Developer
+🎓 Certified JavaScript Full-Stack Developer from Digital Career Institute (Berlin)
 
 🌍 Based in Berlin, Germany
-
-💼 Currently lucky enough to be doing an internship at the amazing company PDM Solutions, focusing on AI development
 
 💬 Languages: Russian 🇷🇺, Ukrainian 🇺🇦, German 🇩🇪, English 🇬🇧
 
 🧘‍♀️ In my free time, I explore the philosophy of yoga — especially the 16 principles of Yama and Niyama
 
 💡 Motto: "Every day a little better."
-
 ---
 
 ## 🤝 Let’s Connect
